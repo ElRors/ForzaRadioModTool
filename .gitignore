@@ -14,6 +14,15 @@ bld/
 [Ll]og/
 [Ll]ogs/
 
+# Project specific - Temporary files and images
+*.png.bak
+*.ico.bak
+create-icon*.ps1
+cuadro-con-un-auto-d.ico
+icon.ico
+app-icon.png
+README.txt
+
 # Visual Studio 2015/2017 cache/options directory
 .vs/
 
