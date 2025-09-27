@@ -21,6 +21,22 @@ A comprehensive tool for modifying radio stations in Forza games with a complete
 - **Dependency injection** for better testability
 - **Modern C# patterns** and nullable reference types
 
+## 📹 Tutorial
+
+### 🎥 **Complete Video Tutorial**
+
+[![ForzaRadioModTool v2.0 Tutorial](https://img.youtube.com/vi/q01OBJYeMWc/maxresdefault.jpg)](https://www.youtube.com/watch?v=q01OBJYeMWc)
+
+**[▶️ Watch Tutorial on YouTube](https://www.youtube.com/watch?v=q01OBJYeMWc)**
+
+Learn everything you need to know about ForzaRadioModTool v2.0:
+- ✅ **Installation and setup** - Get started quickly
+- ✅ **Interface walkthrough** - Navigate with confidence  
+- ✅ **Replacing radio songs** - Customize your Forza experience
+- ✅ **Applying changes** - Integrate mods into your game
+- ✅ **Troubleshooting** - Solve common issues
+- ✅ **Tips and tricks** - Pro techniques for better results
+
 ## 🏗️ Architecture
 
 ### Project Structure
