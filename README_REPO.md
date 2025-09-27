@@ -53,7 +53,25 @@
 
 ---
 
-## 📖 Uso
+## � Tutorial
+
+### 🎥 **Video Tutorial Completo**
+
+[![ForzaRadioModTool v2.0 Tutorial](https://img.youtube.com/vi/q01OBJYeMWc/maxresdefault.jpg)](https://www.youtube.com/watch?v=q01OBJYeMWc)
+
+**[▶️ Ver Tutorial en YouTube](https://www.youtube.com/watch?v=q01OBJYeMWc)**
+
+En este tutorial aprenderás:
+- ✅ Instalación y configuración inicial
+- ✅ Navegación de la interfaz
+- ✅ Reemplazo de canciones en estaciones de radio
+- ✅ Aplicación de cambios al juego
+- ✅ Solución de problemas comunes
+- ✅ Tips y mejores prácticas
+
+---
+
+## �📖 Uso
 
 ### 1. **Configuración Inicial**
 ```

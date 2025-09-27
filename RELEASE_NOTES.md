@@ -41,6 +41,22 @@
 2. Extract to your preferred location
 3. Run `ForzaRadioModTool.exe`
 
+## 📹 Tutorial
+
+### 🎥 **Complete Video Tutorial**
+
+[![ForzaRadioModTool v2.0 Tutorial](https://img.youtube.com/vi/q01OBJYeMWc/maxresdefault.jpg)](https://www.youtube.com/watch?v=q01OBJYeMWc)
+
+**[▶️ Watch Tutorial on YouTube](https://www.youtube.com/watch?v=q01OBJYeMWc)**
+
+Learn everything you need:
+- ✅ Installation and initial setup
+- ✅ Interface navigation
+- ✅ Replacing songs in radio stations  
+- ✅ Applying changes to the game
+- ✅ Troubleshooting common issues
+- ✅ Tips and best practices
+
 ### 🔄 Migration from v1.x
 This is a complete rewrite. Your existing radio configurations should work, but we recommend testing in a backup environment first.
 
